@@ -1,0 +1,17 @@
+# 构建产物（EB 编译生成, 可重新生成）
+workspace/
+GD32F4XX/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.crf
+*.dep
+*.uvguix.*
+
+# 系统杂项
+Thumbs.db
+Desktop.ini
